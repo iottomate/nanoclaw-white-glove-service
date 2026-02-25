@@ -11,32 +11,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Complete Setup Guide',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Step-by-step instructions for delivering professional NanoClaw installations.
+        From hardware procurement to customer handoff, everything you need to deliver
+        white-glove service.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Business Framework',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Pricing models, service tiers, and operational guidance for running a
+        successful AI assistant setup business. Turn technical expertise into
+        recurring revenue.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Privacy-First AI',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Help customers run their own personal AI assistant on their hardware.
+        Data stays local, containerized security, WhatsApp integration, and 24/7
+        availability.
       </>
     ),
   },
